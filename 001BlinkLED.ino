@@ -2,7 +2,7 @@
 // Install Arduino IDE on your computer.
 // Connect the Arduino board to your computer.
 // Open the Arduino IDE, select the correct board and port.
-// Copy the above code into the Arduino IDE and upload it to the Arduino board.
+// Copy the below code into the Arduino IDE and upload it to the Arduino board.
 // The LED on the Arduino board will start blinking.
 
 // includes the Arduino main library
